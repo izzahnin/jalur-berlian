@@ -9,7 +9,7 @@ PT. Jalur Berlian Makassar · Sulawesi Selatan
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/izzahnin/jb-frontend)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://supabase.com)
 [![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)](https://upstash.com)
-[![Vercel](https://img.shields.io/badge/Vercel-deployed-000000?style=flat-square&logo=vercel)](https://YOUR_FRONTEND.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-000000?style=flat-square&logo=vercel)](https://jalurberlian.vercel.app)
 
 [🌐 Live Demo](https://jalurberlian.vercel.app) · [⚙️ Backend Repo](https://github.com/izzahnin/jb-backend) · [🖥️ Frontend Repo](https://github.com/izzahnin/jb-frontend)
 
